@@ -1,5 +1,5 @@
 ## Site settings
-title: "Map & Data Library just the Docs Template"
+title: "Open source web map creation with qgis2web and GitHub Pages"
 description: "Workshops and guides from the Map & Data Library, University of Toronto"
 url: "https://MDLutoronto.github.io/jtd-template" # change the slug to the repo's name ('jtd-template' in this case)
 repository: "MDLutoronto/jtd-template" # for github-metadata
