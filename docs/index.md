@@ -329,8 +329,11 @@ the <a href="#resources">Resources section</a> of this tutorial.
 
 ## Deploy!
 
-Finally, the output of qgis2web can be <b>uploaded to GitHub</b> and <b>published as a
-live webpage</b>.
+Finally, the output of qgis2web can be uploaded and <b>published as a
+live webpage</b>. If you already have a website with a hosting situation allowing
+you to add custom code, you can incorporate what qgis2web has
+created there. Otherwise, follow the steps below to create and host a
+website using GitHub Pages.
 
 ### Create a GitHub account
 
