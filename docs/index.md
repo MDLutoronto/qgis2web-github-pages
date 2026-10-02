@@ -478,6 +478,6 @@ target="_blank">O'Reilly</a>: Access tech how-to ebooks online using your UTORid
 * <a href="https://blogs.tpl.ca/database-guides/2021/07/getting-started-with-lyndacom/"
 target="_blank">LinkedIn Learning</a>: Use your public library membership to
 access self-guided learning materials for free.
-* <a href="https://mdl.library.utoronto.ca/about/contact-form"
+* <a href="https://library.utoronto.ca/contact-us/data-maps"
 target="_blank">Contact the Map and Data Library</a> if you have questions
 or would like assistance with anything.
